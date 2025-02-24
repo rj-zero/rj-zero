@@ -2,7 +2,7 @@
 <h3 align="left">A Full-stack Developer, Systems Designer, UI UX Designer</h3><br>
 
 ## 💫 About Me:
-🔭 I’m currently working on a Zettelkasten method opiniated note taking app<br><br>🌱 I’m currently learning AI Engineering<br><br>💬 Ask me about Next.js, React Native<br><br>⚡ Fun fact I'm a Digital Artist 🧑‍🎨 too.
+🔭 I’m currently working on a Zettelkasten method opiniated note taking app<br><br>🌱 I’m currently learning how to leverage AI Agents in applications.<br><br>💬 Ask me about Next.js, React Native<br><br>⚡ Fun fact I'm a Digital Artist 🧑‍🎨 too.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ruturaj-jadhav-88010395) 
