@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Ruturaj</h1>
-<h3 align="left">A Full-stack Developer, Systems Designer, UI UX Designer</h3><br>
+<h3 align="left">A Full-stack Developer, Systems & Product Designer, UI UX Designer</h3><br>
 
 ## 💫 About Me:
 🔭 I’m currently working on a Zettelkasten method opiniated note taking app<br><br>🌱 I’m currently learning how to leverage AI Agents in applications.<br><br>💬 Ask me about Next.js, React Native<br><br>⚡ Fun fact I'm a Digital Artist 🧑‍🎨 too.
